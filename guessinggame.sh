@@ -22,3 +22,5 @@ function guess {
   		fi
 	done
 }
+
+guess
