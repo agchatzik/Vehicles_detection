@@ -36,9 +36,9 @@ Adjusted techniques are applied in cases where the video frames are attacked wit
 <h3 align="center"> Vehicles detection.  </h3>
 
 <p align="center">
-<img src="include/9.png" width="350" height="350" >
-<img src="include/7.png" width="350" height="350" >
-<img src="include/8.png" width="350" height="350" >
+<img src="include/9.png" width="500" height="300" >
+<img src="include/7.png" width="500" height="300" >
+<img src="include/8.png" width="500" height="300" >
 </p>
 
 
